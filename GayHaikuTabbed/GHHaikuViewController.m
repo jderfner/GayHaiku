@@ -396,6 +396,7 @@
     NSURL *shareURL = [NSURL URLWithString:@"http://gayhaiku.com"];
     NSArray *activityItems = @[myImage, shareText, shareURL];
     UIActivityViewController *activityController = [[UIActivityViewController alloc] initWithActivityItems:activityItems applicationActivities:@[activity]];
+    activityController.excludedActivityTypes=@[UIActivityTypeAssignToContact,UIActivityTypeMessage,UIActivityTypePostToWeibo,UIActivityTypeCopyToPasteboard];
     [self presentViewController:activityController animated:YES completion:nil];
 }
 
