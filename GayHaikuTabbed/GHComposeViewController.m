@@ -10,6 +10,8 @@
 #import "GHVerify.h"
 #import "GHAppDefaults.h"
 #import "GHVerify.h"
+#import <QuartzCore/QuartzCore.h>
+#import <Parse/Parse.h>
 
 @interface GHComposeViewController () <UITextViewDelegate,UIAlertViewDelegate,UITextFieldDelegate,UIActionSheetDelegate>
 
@@ -561,6 +563,8 @@
     
 //COMMENT THE FOLLOWING LINES OUT FOR TESTING
     
+    if (self.userSettings.permissionDenied==NO) {
+    
     PFObject *haikuObject = [PFObject objectWithClassName:@"TestObject"];
     [haikuObject setObject:self.textView.text forKey:@"haiku"];
     
@@ -585,6 +589,8 @@
                //Send the PFObject.
 
     [haikuObject saveEventually];
+        
+    }
     
 //END COMMENT FOR TESTING
     

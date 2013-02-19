@@ -404,9 +404,12 @@
     [activity activityDidFinish:YES];
 }
 
+
+//Using a magic number here to try to eliminate font size weirdness that happens when playing MTGetaways 2.
+
 -(UITextView *)createTextViewForDisplay:(NSString *)s {
     UITextView *tv = [[UITextView alloc] init];
-    tv.font = [UIFont fontWithName:@"Georgia" size : MEDIUM_FONT_SIZE];
+    tv.font = [UIFont fontWithName:@"Georgia" size : 15];
     tv.editable = NO;
     tv.userInteractionEnabled = NO;
     tv.backgroundColor = [UIColor clearColor];
