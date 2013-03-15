@@ -529,8 +529,8 @@
     
                 //Create the dictionary item of the new haiku to save in userHaiku.plist.
     
-    NSArray *collectionOfHaiku = @[@"user", haikuWithAttribution];
-    NSArray *keys = @[@"category",@"haiku"];
+    NSArray *collectionOfHaiku = @[@"user", @[1],haikuWithAttribution];
+    NSArray *keys = @[@"category",@"favorite",@"haiku"];
     NSDictionary *dictToSave = [[NSDictionary alloc] initWithObjects:collectionOfHaiku forKeys:keys];
 
                 //If the saved haiku is a new haiku, advance the current index by one and insert the new haiku at that position.

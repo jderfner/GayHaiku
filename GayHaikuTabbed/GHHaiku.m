@@ -10,7 +10,7 @@
 
 @implementation GHHaiku
 
-@synthesize gayHaiku, justComposed, isUserHaiku, userIsEditing, text, newIndex;
+@synthesize gayHaiku, justComposed, isUserHaiku, userIsEditing, text, newIndex, isFavorite;
 
 + (GHHaiku *)sharedInstance {
     
@@ -66,6 +66,14 @@
     else {
         self.isUserHaiku=NO;
     }
+    
+    NSString *fav = [self.gayHaiku[self.newIndex] valueForKey:@"favorite"];
+    if ([fav isEqualToString:@"no"]) {
+        self.isFavorite=NO;
+    }
+    else {
+        self.isFavorite=YES;
+    }
 }
 
 -(void) loadHaiku {
@@ -74,11 +82,15 @@
     NSError *error;
     NSArray *paths = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
     NSString *documentsDirectory = paths[0];
-    NSString *path = [documentsDirectory stringByAppendingPathComponent:@"gayHaiku.plist"];
+    NSString *path = [documentsDirectory stringByAppendingPathComponent:@"gayHaiku413.plist"];
     NSFileManager *fileManager = [NSFileManager defaultManager];
     if (![fileManager fileExistsAtPath: path]) {
-        NSString *bundle = [[NSBundle mainBundle] pathForResource:@"gayHaiku" ofType:@"plist"];
+        NSString *bundle = [[NSBundle mainBundle] pathForResource:@"gayHaiku413" ofType:@"plist"];
         [fileManager copyItemAtPath:bundle toPath: path error:&error];
+    }
+    NSString *oldPath = [documentsDirectory stringByAppendingPathComponent:@"gayHaiku.plist"];
+    if ([fileManager fileExistsAtPath:oldPath]) {
+        [fileManager removeItemAtPath:oldPath error:&error];
     }
     
                 //UNCOMMENT, RUN, AND THEN RECOMMENT THIS SECTION IF NEED TO DELETE LOCAL HAIKU DOCUMENT (FOR TESTING USER-GENERATED HAIKU, ETC.).

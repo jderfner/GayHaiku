@@ -19,6 +19,7 @@
 
 @property (strong, nonatomic) GHAppDefaults *userInfo;
 @property (strong, nonatomic) UINavigationBar *navBar;
+//@property (strong, nonatomic) UIToolbar *navBar;
 @property (strong, nonatomic) UITextView *displayHaikuTextView;
 @property (strong, nonatomic) UITextView *leftSwipe;
 @property (strong, nonatomic) UITextView *rightSwipe;
@@ -126,7 +127,7 @@
     self.ghhaiku.userIsEditing = NO;
 }
 
--(void)createNavBar {
+-(void)createNavBar:(NSString *)variable {
     
                 //Remove the nav bar if it exists.
     
@@ -145,7 +146,13 @@
                 //Add share button and, if appropriate, delete and edit buttons
     
     UIBarButtonItem *send = [self addShareButton];
-    titleBar.rightBarButtonItem = send;
+    UIBarButtonItem *changeFavoriteStatus = [[UIBarButtonItem alloc] initWithImage:[UIImage imageNamed:@"28-star.png"] style:UIBarButtonItemStyleBordered target:self action:@selector(changeFavoriteStatus)];
+    NSString *title;
+    if ([variable isEqualToString:@"chooseFromFavorites"]) title = @"Favorites";
+    UIBarButtonItem *chooseFrom = [[UIBarButtonItem alloc] initWithTitle:variable style:UIBarButtonItemStyleBordered target:self action:NSSelectorFromString(variable)];
+
+    titleBar.rightBarButtonItems = @[send,chooseFrom,changeFavoriteStatus];
+    
     if (self.ghhaiku.isUserHaiku==YES) {
         NSArray *leftItems = [self addLeftButtons];
         titleBar.leftBarButtonItems = leftItems;
@@ -166,6 +173,7 @@
                              self.navBar.alpha = 0;
                          }];
     });
+    
 }
 
 -(UIBarButtonItem *)addShareButton {
@@ -175,6 +183,32 @@
     UIBarButtonItem *send = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemAction target:self action:@selector(share)];
     send.style = UIBarButtonItemStyleBordered;
     return send;
+}
+
+-(void)changeFavoriteStatus {
+    
+    //Create the dictionary item of the new haiku to save in userHaiku.plist.
+    
+    NSArray *collectionOfHaiku = @[@"user", @[1],self.displayHaikuTextView];
+    NSArray *keys = @[@"category",@"favorite",@"haiku"];
+    NSDictionary *dictToSave = [[NSDictionary alloc] initWithObjects:collectionOfHaiku forKeys:keys];
+    
+    //Save the haiku to the plist.
+    
+    [ghhaiku saveToDocsFolder:@"userHaiku.plist"];
+    
+        
+    //Return to home screen.
+
+    return YES;
+}
+
+-(void)Favorites {
+    
+}
+
+-(void)All {
+    
 }
 
 -(NSArray *)addLeftButtons {
@@ -393,7 +427,7 @@
     UIImage *myImage = [self addTextToImage:[UIImage imageNamed:@"backgroundForShare.png"] withFontSize:24];   
     NSString *shareText = self.ghhaiku.text;
     shareText = [shareText stringByAppendingString:@"\n\n#gayhaiku"];
-    NSURL *shareURL = [NSURL URLWithString:@"http://gayhaiku.com"];
+    NSURL *shareURL = [NSURL URLWithString:@"http://appstore.com/gayhaiku"];
     NSArray *activityItems = @[myImage, shareText, shareURL];
     UIActivityViewController *activityController = [[UIActivityViewController alloc] initWithActivityItems:activityItems applicationActivities:@[activity]];
     activityController.excludedActivityTypes=@[UIActivityTypeAssignToContact,UIActivityTypeMessage,UIActivityTypePostToWeibo,UIActivityTypeCopyToPasteboard];
@@ -421,14 +455,15 @@
 -(UIImage *)addTextToImage:(UIImage *)myImage withFontSize:(int)sz {
     GHVerify *ghv = [[GHVerify alloc] init];
     NSString *string = [ghv removeAuthor:self.displayHaikuTextView.text];
-    NSString *myWatermarkText = [string stringByAppendingString:@"\n\n\t--gayhaiku.com"];
+    NSString *myWatermarkText = [string stringByAppendingString:@"\n\n\t--appstore.com/gayhaiku"];
     NSDictionary *attrs = [NSDictionary dictionaryWithObjectsAndKeys:[UIFont fontWithName:@"Georgia" size:sz], NSFontAttributeName, nil];
     NSAttributedString *attString = [[NSAttributedString alloc] initWithString:myWatermarkText attributes:attrs];
     UIGraphicsBeginImageContextWithOptions(myImage.size,NO,1.0);
     [myImage drawAtPoint: CGPointZero];
     NSString *longestLine = ghv.listOfLines[1];
     CGSize sizeOfLongestLine = [longestLine sizeWithFont:[UIFont fontWithName:@"Georgia" size:sz]];
-    CGSize siz = CGSizeMake(sizeOfLongestLine.width, sizeOfLongestLine.height*4);    [attString drawAtPoint: CGPointMake(myImage.size.width/2 - siz.width/2, myImage.size.height/2-siz.height/2)];
+    CGSize siz = CGSizeMake(sizeOfLongestLine.width, sizeOfLongestLine.height*4);
+    [attString drawAtPoint: CGPointMake(myImage.size.width/2 - siz.width/2, myImage.size.height/2-siz.height/2)];
     myImage = UIGraphicsGetImageFromCurrentImageContext();
     UIGraphicsEndImageContext();
     return myImage;

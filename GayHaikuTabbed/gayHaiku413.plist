@@ -2,8 +2,130 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <array>
-	<dict>
+    <dict>
 		<key>category</key>
+		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
+		<key>haiku</key>
+		<string>I once had a dream
+Of white knights and brave princes.
+Now, stained sheets and you.
+            
+            --Anonymous</string>
+	</dict>
+    <dict>
+		<key>category</key>
+		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
+		<key>haiku</key>
+		<string>Gay sports bar--how cute!
+Wait, all the gays here really
+Are watching the game.
+            
+        --Anonymous</string>
+	</dict>
+    <dict>
+		<key>category</key>
+		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
+		<key>haiku</key>
+		<string>A smooth, cute gaysian
+And a hirsute otter boy.
+Who would ever guess?
+            
+        --Anonymous</string>
+	</dict>
+    <dict>
+		<key>category</key>
+		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
+		<key>haiku</key>
+		<string>Nice? That&apos;s not why I
+Held the door open for you.
+I just like your ass.
+            
+        --Joshua P. Kennedy</string>
+	</dict>
+    <dict>
+		<key>category</key>
+		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
+		<key>haiku</key>
+		<string>Gay advertising
+Leads me to one conclusion:
+Gay men don&apos;t own shirts.
+        
+        --Tony Asaro</string>
+	</dict>
+    <dict>
+		<key>category</key>
+		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
+		<key>haiku</key>
+		<string>Episodes of Girls
+Annoy me like nothing else.
+I can&apos;t stop watching.
+        
+        --Tony Asaro</string>
+	</dict>
+    <dict>
+		<key>category</key>
+		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
+		<key>haiku</key>
+		<string>You picked up the check:
+The gentleman&apos;s way to say
+Thank you, sir, but no.
+        
+        --Kevin Cummines</string>
+	</dict>
+    <dict>
+		<key>category</key>
+		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
+		<key>haiku</key>
+		<string>Syphilis again;
+So many people to tell.
+Should I just tweet this?
+        
+        --Kevin Cummines</string>
+	</dict>
+    <dict>
+		<key>category</key>
+		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
+		<key>haiku</key>
+		<string>I never sleep well.
+But when I sleep with you, I
+Fit, and that's the best.
+        
+        --Kevin Cummines</string>
+	</dict>
+    <dict>
+		<key>category</key>
+		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
+		<key>haiku</key>
+		<string>My boyfriend dumped me
+For my ex; now they&apos;re married:
+Only the homos.
+            
+        --Kevin Cummines</string>
+	</dict>
+    <dict>
+		<key>category</key>
+        <key>favorite</key>
+        <string>no</string>
 		<string>default</string>
 		<key>haiku</key>
 		<string>I don&apos;t understand.
@@ -13,6 +135,8 @@ Wait, no.  That&apos;s Stephen.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Frantically hiding
 Porno and Mapplethorpe prints--
@@ -21,6 +145,8 @@ Mom is on her way.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Remember when I
 Said I disliked oral sex?
@@ -29,6 +155,8 @@ I meant just with you.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You were perfection.
 Then you misspelled &quot;embarrassed.&quot;
@@ -37,6 +165,8 @@ Don&apos;t call me again.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>The salmon&apos;s divine,
 But I&apos;m afraid we can&apos;t stay--
@@ -45,6 +175,8 @@ I fucked our waiter.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Ladies of The View:
 If I kill Elisabeth,
@@ -53,6 +185,8 @@ Can I take her seat?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>It&apos;s our second date,
 And I&apos;m not sure I love you.
@@ -61,6 +195,8 @@ It&apos;s time to break up.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>My seventh birthday;
 I weep at Barbie&apos;s Dream House.
@@ -69,6 +205,8 @@ How could you not know?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>He&apos;s gorgeous, witty,
 And stimulating.  Please, God,
@@ -77,6 +215,8 @@ Let him be a top.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You fill me with joy
 Ineffable, unending.
@@ -85,6 +225,8 @@ What&apos;s your name again?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>I had a good time--
 Hope I&apos;ll see you again soon.
@@ -93,6 +235,8 @@ Hope I&apos;ll see you again soon.
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Gay marriage gives us
 The most vital right of all:
@@ -101,6 +245,8 @@ Registry at Saks.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;Hope you understand.&quot;
 Yes, of course I understand.
@@ -109,6 +255,8 @@ And I hope you die.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Dilemma at Pride:
 March with the Schubert Lovers
@@ -117,6 +265,8 @@ Or the Leather Bears?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Why is it you fuck
 As hard and fast as you can?
@@ -125,6 +275,8 @@ I am not a Wii.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>See the eight-year-old
 Knitting mittens on the bus.
@@ -133,6 +285,8 @@ Does his mother know?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Forty-seven times
 You said, &quot;Give me that pussy.&quot;
@@ -141,6 +295,8 @@ I have no pussy.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>The romance is gone,
 But we&apos;re staying together
@@ -149,6 +305,8 @@ For the apartment.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Yes, I&apos;m a redhead
 All over, top to bottom.
@@ -157,6 +315,8 @@ Shame you&apos;ll never know.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Yes, this feels quite good.
 Still, could you pick up the pace?
@@ -165,6 +325,8 @@ Golden Girls is on.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;Give it to me good--
 Oh, yeah, yeah, do it, daddy.&quot;
@@ -173,6 +335,8 @@ How embarrassing.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>See the gay man in
 His natural habitat:
@@ -181,6 +345,8 @@ Bed, Bath, &amp; Beyond.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Group sex would be great
 If it weren&apos;t for this sad truth:
@@ -189,6 +355,8 @@ People have elbows.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Oh, Republicans,
 You know just where you can put
@@ -197,6 +365,8 @@ Your family values.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>If you plan a tryst,
 Do not wear deodorant.
@@ -205,6 +375,8 @@ It tastes really gross.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Did you just say you
 Think Mansfield Park is boring?
@@ -213,6 +385,8 @@ Get out of my house.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>It&apos;s nice to meet you;
 Matt said you were a great guy.
@@ -221,6 +395,8 @@ So:  one dog or two?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Pride:  shirtless homos
 As far as the eye can see.
@@ -229,6 +405,8 @@ My pectorals suck.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Going mad in Prague:
 Are all these hot guys gay, or
@@ -237,6 +415,8 @@ Just European?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;You&apos;re a musician?&quot;
 &quot;I play skin-flute,&quot; you answer.
@@ -245,6 +425,8 @@ Whoops.  There&apos;s my cell phone.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;Let&apos;s have a drink first.&quot;
 Excuse me?  I didn&apos;t join
@@ -253,6 +435,8 @@ Men4talk.com.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>At gay synagogue,
 Men&apos;s heads are bowed deep in prayer.
@@ -261,6 +445,8 @@ Why aren&apos;t you cruising?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>The guys screwing on
 My monitor are so butch.
@@ -269,6 +455,8 @@ Then they start to speak.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;Here&apos;s Death in Venice--
 You like murder mysteries.&quot;
@@ -277,6 +465,8 @@ Should have dumped you then.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Enthralled by the old
 Man and the stories he tells:
@@ -285,6 +475,8 @@ Gay before Stonewall.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>I&apos;m astonishing,
 But you still can&apos;t get it up.
@@ -293,6 +485,8 @@ God, I hate Prozac.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>How is it you knew
 I wasn&apos;t faithful?  Oh, yeah:
@@ -301,6 +495,8 @@ Bite marks on my ass.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You called me &quot;boyfriend&quot;
 And I never phoned again.
@@ -309,6 +505,8 @@ And I never phoned again.
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>English has no words
 For what we just did in bed.
@@ -317,6 +515,8 @@ Oh, wait:  &quot;Tedious.&quot;</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Oh, now I get it:
 You learned your foreplay technique
@@ -325,6 +525,8 @@ From Powertool 2.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You&apos;re smart and handsome
 And rich.  Unfortunately,
@@ -333,6 +535,8 @@ You live in Jersey.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You think Kierkegaard
 Is a new deodorant--
@@ -341,6 +545,8 @@ Why does God hate me?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;I don&apos;t understand
 Why you want to be with me.&quot;
@@ -349,6 +555,8 @@ Why you want to be with me.&quot;
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;I need time away,
 To figure out who I am.&quot;
@@ -359,6 +567,8 @@ I can tell you that.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Teens now:  out, proud, and
 Ignorant of Auntie Mame.
@@ -367,6 +577,8 @@ Pyrrhic victory?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You have talked and talked
 For hours on end.  Yet still,
@@ -375,6 +587,8 @@ My watch says 8:10.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Headline:  &quot;Alien
 Loose in New York.&quot;  That&apos;s not news--
@@ -383,6 +597,8 @@ I am dating him.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>I&apos;m considering
 Giving up casual sex:
@@ -391,6 +607,8 @@ I hate the subway.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Mother&apos;s dilemma:
 Her son is gay, but dating
@@ -399,6 +617,8 @@ A Jewish doctor.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;This has been fun, but....&quot;
 I&apos;ve got news for you, honey:
@@ -407,6 +627,8 @@ It wasn&apos;t that fun.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>He&apos;s insightful, but--
 Could we find a therapist
@@ -415,6 +637,8 @@ You haven&apos;t slept with?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;Oh, you&apos;re on South Beach?
 I eat all things and stay thin.&quot;
@@ -423,6 +647,8 @@ Get out of my sight.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>I feel so unloved
 That I want to kill myself.
@@ -431,6 +657,8 @@ It must be Thursday.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Where are all these gays
 Going this early?  Oh, right:
@@ -439,6 +667,8 @@ Sale at Ikea.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>We all make mistakes.
 For instance, I mistook you
@@ -449,6 +679,8 @@ For a vertebrate.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Summer, Cherry Grove:
 I gaze, wistful, towards the Pines,
@@ -457,6 +689,8 @@ Wishing I were chic.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Your lips are so soft,
 Your conversation graceful.
@@ -465,6 +699,8 @@ It&apos;s just--you&apos;re not him.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>When he leaves the room,
 If I don&apos;t burst into tears,
@@ -473,6 +709,8 @@ Then is it still love?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Break from the orgy.
 We stand nude in the kitchen
@@ -481,6 +719,8 @@ And discuss Runway.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Man on the subway
 Exclaims, &quot;Christ paid your sin bill!&quot;
@@ -489,6 +729,8 @@ Christ must be loaded.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You teach aerobics,
 Have a physics Ph.D.,
@@ -497,6 +739,8 @@ And think my name&apos;s Josh.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;I&apos;ll call you Wednesday.&quot;
 The phone didn&apos;t ring.  Maybe
@@ -505,6 +749,8 @@ He meant next Wednesday?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Met a cute ex-gay
 Last night.  As I suspected,
@@ -513,6 +759,8 @@ He was cuter nude.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;You&apos;re selfish,&quot; you said;
 &quot;There&apos;s no &apos;i&apos; in &apos;couple.&apos; &quot;
@@ -521,6 +769,8 @@ Not now, there isn&apos;t.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Yoga calms my mind.
 Then, unfortunately, I
@@ -529,6 +779,8 @@ See the teacher&apos;s abs.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>My heart is broken.
 Maybe he will change his mind
@@ -539,6 +791,8 @@ If I lose five pounds.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Your CD rack has	
 No Gaga, Barbra, or Cher.
@@ -547,6 +801,8 @@ Are you sure you&apos;re gay?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Rule:  kiss toad, get prince.
 It&apos;s been three weeks.  So you can
@@ -555,6 +811,8 @@ Change anytime now.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>I&apos;m not judgmental.
 It&apos;s just that I have standards
@@ -563,6 +821,8 @@ You will never meet.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Minister Fred Phelps:
 Depraved homophobe with a
@@ -571,6 +831,8 @@ Really bad hairdo.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;The spark is just gone.&quot;
 I can fix that easy, with
@@ -579,6 +841,8 @@ Some gas and a match.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Painting the hall--I
 Want blue; you insist on mauve.
@@ -587,6 +851,8 @@ Will we make it through?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You have updated
 Your online dating profile--
@@ -595,6 +861,8 @@ At least now I know.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>First date; you are a
 Log Cabin Republican.
@@ -603,6 +871,8 @@ Someone shoot me now.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Lovers at the gym:
 Matching A&amp;F tank tops
@@ -611,6 +881,8 @@ Make me want to hurl.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You&apos;re cruel and petty
 And you like to make me cry.
@@ -619,6 +891,8 @@ When can you move in?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;He has a boyfriend.&quot;
 &quot;No,&quot; you say, &quot;they&apos;ve broken up.&quot;
@@ -627,6 +901,8 @@ Paralyzed with hope.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Dinner at your mom&apos;s--
 I smile and pretend not
@@ -635,6 +911,8 @@ To notice the dust.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Yes, I forgive you.
 I understand you&apos;re human.
@@ -643,6 +921,8 @@ Though, on second thought. . . .</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Walking through Chelsea
 Wearing last year&apos;s Versace:
@@ -651,6 +931,8 @@ I&apos;m a pariah.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;I&apos;m very flattered,
 But, to be honest with you....&quot;
@@ -659,6 +941,8 @@ Why can&apos;t you just lie?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>I am giving you
 The best shot possible.  So:
@@ -667,6 +951,8 @@ What&apos;s with the poking?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You fill my heart when
 I see you.  The question is . . . 
@@ -675,6 +961,8 @@ Is it full enough?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>It&apos;s Dorian Grey
 In reverse:  you aged, and yet
@@ -683,6 +971,8 @@ Your photo stayed young.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You are judgmental,
 Withholding, and cold.  Jesus--
@@ -691,6 +981,8 @@ I&apos;m dating my mom.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;I have a boyfriend.&quot;
 We&apos;ve been talking three hours.
@@ -699,6 +991,8 @@ You are a bastard.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>My therapist and
 All my friends say, &quot;Stay with him!&quot;
@@ -707,6 +1001,8 @@ They can&apos;t hear you snore.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Your room is filled with
 Leather and Star Wars figures.
@@ -715,6 +1011,8 @@ Um, I have to go.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Art, music, theater,
 Apricot-mango face scrub--
@@ -723,6 +1021,8 @@ What haven&apos;t gays done?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;I&apos;m coming!&quot; you shout,
 As if no one had ever
@@ -731,6 +1031,8 @@ Managed it before.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;Yeah, suck it, big boy.&quot;
 This is fun, I guess.  But I
@@ -739,6 +1041,8 @@ Could be reading Proust.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>We&apos;ve just met--I think
 We might be going too fast.
@@ -747,6 +1051,8 @@ So I won&apos;t swallow.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>How can we fix us?
 The fights, the silence. . . .  I know!
@@ -755,6 +1061,8 @@ Let&apos;s get a puppy!</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>As I leave, my clothes
 Back on, I realize what&apos;s wrong:
@@ -763,6 +1071,8 @@ Have you got some gel?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>You are not the man
 I always dreamed I would love--
@@ -771,6 +1081,8 @@ And yet here we are.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>That&apos;s not ten inches--
 Unless you happen to be
@@ -779,6 +1091,8 @@ Counting in base five.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>I&apos;m on a new diet:
 Atkins for the Soul.  Sorry,
@@ -787,6 +1101,8 @@ But you&apos;re full of carbs.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>I&apos;d say &quot;I love you&quot;--
 But I&apos;m worried that I won&apos;t
@@ -795,6 +1111,8 @@ Mean it tomorrow.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>I am over you.
 So why, after I see you,
@@ -803,6 +1121,8 @@ Are my cheeks so wet?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Alone at the bar,
 My soul filled with deep longing
@@ -811,6 +1131,8 @@ And deeper terror.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>This orgy is lame.
 But I am, alas, in no
@@ -819,6 +1141,8 @@ Position to leave.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Summer in P-Town,
 Picking up guys left and right:
@@ -827,6 +1151,8 @@ Thank God for my dog.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>No more empty sex:
 It is interfering with
@@ -835,6 +1161,8 @@ My TV schedule.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>I&apos;m turning thirty:
 Today, a birthday party.
@@ -843,6 +1171,8 @@ Tomorrow, the home.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>I know you think I
 Like it when you slap my ass.
@@ -851,6 +1181,8 @@ You are mistaken.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Flailing to the beat--
 Could I possibly look half
@@ -859,6 +1191,8 @@ As dumb as I feel?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Last night, you looked hot.
 Today, you want to discuss
@@ -867,6 +1201,8 @@ The whole foods movement.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;Hope springs eternal.&quot;
 Don&apos;t people realize this is
@@ -875,6 +1211,8 @@ A terrible thing?</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Sure, the guys are hot,
 But I&apos;m quitting Sean Cody:
@@ -883,6 +1221,8 @@ Can&apos;t deal with the beige.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Fight oppression now!
 Cruise the mall, have sex in the
@@ -891,6 +1231,8 @@ Chik-Fil-A bathroom.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Nina, Michael, and
 Heidi, you are as nothing--
@@ -899,6 +1241,8 @@ Not compared with Tim.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>&quot;I&apos;m not racist; it&apos;s
 Just I don&apos;t go for black guys.&quot;
@@ -907,6 +1251,8 @@ Yawn, yawn, yawn, yawn, yawn.</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>New T-shirt: &quot;I&apos;m not
 Pope Benedict the Sixteenth...
@@ -915,6 +1261,8 @@ But my boyfriend is.&quot;</string>
 	<dict>
 		<key>category</key>
 		<string>default</string>
+        <key>favorite</key>
+        <string>no</string>
 		<key>haiku</key>
 		<string>Oh, Tyra.  Tyra.
 When will you finally realize
