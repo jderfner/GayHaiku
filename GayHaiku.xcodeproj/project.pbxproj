@@ -17,12 +17,76 @@
 		FF69592117E49D6900DE7116 /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF69591F17E49D6900DE7116 /* Main_iPad.storyboard */; };
 		FF69592417E49D6900DE7116 /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF69592317E49D6900DE7116 /* FirstViewController.m */; };
 		FF69592717E49D6900DE7116 /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF69592617E49D6900DE7116 /* SecondViewController.m */; };
-		FF69592917E49D6900DE7116 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF69592817E49D6900DE7116 /* Images.xcassets */; };
 		FF69593017E49D6900DE7116 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF69592F17E49D6900DE7116 /* XCTest.framework */; };
 		FF69593117E49D6900DE7116 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF69590A17E49D6900DE7116 /* Foundation.framework */; };
 		FF69593217E49D6900DE7116 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FF69590E17E49D6900DE7116 /* UIKit.framework */; };
 		FF69593A17E49D6900DE7116 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FF69593817E49D6900DE7116 /* InfoPlist.strings */; };
-		FF69593C17E49D6900DE7116 /* GayHaikuTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FF69593B17E49D6900DE7116 /* GayHaikuTests.m */; };
+		FFC999D717E4A09900C9259C /* 5compose.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9998717E4A09900C9259C /* 5compose.png */; };
+		FFC999D817E4A09900C9259C /* 5instructions.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9998817E4A09900C9259C /* 5instructions.png */; };
+		FFC999D917E4A09900C9259C /* 5main.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9998917E4A09900C9259C /* 5main.png */; };
+		FFC999DA17E4A09900C9259C /* 18-envelope.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9998A17E4A09900C9259C /* 18-envelope.png */; };
+		FFC999DB17E4A09900C9259C /* 18-envelope@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9998B17E4A09900C9259C /* 18-envelope@2x.png */; };
+		FFC999DC17E4A09900C9259C /* 20-gear-2.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9998C17E4A09900C9259C /* 20-gear-2.png */; };
+		FFC999DD17E4A09900C9259C /* 20-gear-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9998D17E4A09900C9259C /* 20-gear-2@2x.png */; };
+		FFC999DE17E4A09900C9259C /* 28-star.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9998E17E4A09900C9259C /* 28-star.png */; };
+		FFC999DF17E4A09900C9259C /* 28-star@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9998F17E4A09900C9259C /* 28-star@2x.png */; };
+		FFC999E017E4A09900C9259C /* 53-house.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9999017E4A09900C9259C /* 53-house.png */; };
+		FFC999E117E4A09900C9259C /* 53-house@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9999117E4A09900C9259C /* 53-house@2x.png */; };
+		FFC999E217E4A09900C9259C /* 80-shopping-cart.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9999217E4A09900C9259C /* 80-shopping-cart.png */; };
+		FFC999E317E4A09900C9259C /* 80-shopping-cart@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9999317E4A09900C9259C /* 80-shopping-cart@2x.png */; };
+		FFC999E417E4A09900C9259C /* 216-compose.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9999417E4A09900C9259C /* 216-compose.png */; };
+		FFC999E517E4A09900C9259C /* 216-compose@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9999517E4A09900C9259C /* 216-compose@2x.png */; };
+		FFC999E617E4A09900C9259C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC9999717E4A09900C9259C /* AppDelegate.m */; };
+		FFC999E717E4A09900C9259C /* backgroundForShare.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9999817E4A09900C9259C /* backgroundForShare.png */; };
+		FFC999E817E4A09900C9259C /* Main_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFC9999A17E4A09900C9259C /* Main_iPad.storyboard */; };
+		FFC999E917E4A09900C9259C /* Main_iPhone.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFC9999C17E4A09900C9259C /* Main_iPhone.storyboard */; };
+		FFC999EA17E4A09900C9259C /* compose.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC9999E17E4A09900C9259C /* compose.png */; };
+		FFC999EB17E4A09900C9259C /* DMActivityInstagram.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999A017E4A09900C9259C /* DMActivityInstagram.m */; };
+		FFC999EC17E4A09900C9259C /* DMResizerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999A217E4A09900C9259C /* DMResizerViewController.m */; };
+		FFC999ED17E4A09900C9259C /* DMResizerViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FFC999A317E4A09900C9259C /* DMResizerViewController.xib */; };
+		FFC999EE17E4A09900C9259C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FFC999A517E4A09900C9259C /* InfoPlist.strings */; };
+		FFC999EF17E4A09900C9259C /* exceptions.plist in Resources */ = {isa = PBXBuildFile; fileRef = FFC999A717E4A09900C9259C /* exceptions.plist */; };
+		FFC999F017E4A09900C9259C /* FirstViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999A917E4A09900C9259C /* FirstViewController.m */; };
+		FFC999F117E4A09900C9259C /* GayHaiku-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FFC999AA17E4A09900C9259C /* GayHaiku-Info.plist */; };
+		FFC999F217E4A09900C9259C /* gayHaiku413.plist in Resources */ = {isa = PBXBuildFile; fileRef = FFC999AC17E4A09900C9259C /* gayHaiku413.plist */; };
+		FFC999F317E4A09900C9259C /* GHAppDefaults.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999AE17E4A09900C9259C /* GHAppDefaults.m */; };
+		FFC999F417E4A09900C9259C /* GHAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999B017E4A09900C9259C /* GHAppDelegate.m */; };
+		FFC999F517E4A09900C9259C /* GHComposeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999B217E4A09900C9259C /* GHComposeViewController.m */; };
+		FFC999F617E4A09900C9259C /* GHFeedback.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999B417E4A09900C9259C /* GHFeedback.m */; };
+		FFC999F717E4A09900C9259C /* GHHaiku.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999B617E4A09900C9259C /* GHHaiku.m */; };
+		FFC999F817E4A09900C9259C /* GHHaikuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999B817E4A09900C9259C /* GHHaikuViewController.m */; };
+		FFC999F917E4A09900C9259C /* GHSettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999BA17E4A09900C9259C /* GHSettingsViewController.m */; };
+		FFC999FA17E4A09900C9259C /* GHTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999BC17E4A09900C9259C /* GHTabBarController.m */; };
+		FFC999FB17E4A09900C9259C /* GHVerify.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999BE17E4A09900C9259C /* GHVerify.m */; };
+		FFC999FC17E4A09900C9259C /* GHWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999C017E4A09900C9259C /* GHWebViewController.m */; };
+		FFC999FD17E4A09900C9259C /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFC999C117E4A09900C9259C /* Images.xcassets */; };
+		FFC999FE17E4A09900C9259C /* input.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999C217E4A09900C9259C /* input.png */; };
+		FFC999FF17E4A09900C9259C /* input@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999C317E4A09900C9259C /* input@2x.png */; };
+		FFC99A0017E4A09900C9259C /* instagramicon.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999C417E4A09900C9259C /* instagramicon.png */; };
+		FFC99A0117E4A09900C9259C /* instagramicon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999C517E4A09900C9259C /* instagramicon@2x.png */; };
+		FFC99A0217E4A09900C9259C /* instructions.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999C617E4A09900C9259C /* instructions.png */; };
+		FFC99A0317E4A09900C9259C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999C717E4A09900C9259C /* main.m */; };
+		FFC99A0417E4A09900C9259C /* main.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999C817E4A09900C9259C /* main.png */; };
+		FFC99A0517E4A09900C9259C /* NSRegularExpression+SimpleRegex.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999CA17E4A09900C9259C /* NSRegularExpression+SimpleRegex.m */; };
+		FFC99A0617E4A09900C9259C /* NSString+RegexReplace.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999CC17E4A09900C9259C /* NSString+RegexReplace.m */; };
+		FFC99A0717E4A09900C9259C /* SecondViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC999CE17E4A09900C9259C /* SecondViewController.m */; };
+		FFC99A0817E4A09900C9259C /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFC999CF17E4A09900C9259C /* Storyboard.storyboard */; };
+		FFC99A0917E4A09900C9259C /* userHaiku.plist in Resources */ = {isa = PBXBuildFile; fileRef = FFC999D017E4A09900C9259C /* userHaiku.plist */; };
+		FFC99A0A17E4A09900C9259C /* webBack.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999D117E4A09900C9259C /* webBack.png */; };
+		FFC99A0B17E4A09900C9259C /* webBack@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999D217E4A09900C9259C /* webBack@2x.png */; };
+		FFC99A0C17E4A09900C9259C /* webForward.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999D317E4A09900C9259C /* webForward.png */; };
+		FFC99A0D17E4A09900C9259C /* webForward@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999D417E4A09900C9259C /* webForward@2x.png */; };
+		FFC99A0E17E4A09900C9259C /* x5compose.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999D517E4A09900C9259C /* x5compose.png */; };
+		FFC99A0F17E4A09900C9259C /* xcompose.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC999D617E4A09900C9259C /* xcompose.png */; };
+		FFC99A1517E4A0B800C9259C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = FFC99A1117E4A0B800C9259C /* InfoPlist.strings */; };
+		FFC99A1617E4A0B800C9259C /* GayHaikuTests-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FFC99A1317E4A0B800C9259C /* GayHaikuTests-Info.plist */; };
+		FFC99A1717E4A0B800C9259C /* GayHaikuTests.m in Sources */ = {isa = PBXBuildFile; fileRef = FFC99A1417E4A0B800C9259C /* GayHaikuTests.m */; };
+		FFC99A1E17E4A14000C9259C /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC99A1817E4A14000C9259C /* Default-568h@2x.png */; };
+		FFC99A1F17E4A14000C9259C /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC99A1917E4A14000C9259C /* Default.png */; };
+		FFC99A2017E4A14000C9259C /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC99A1A17E4A14000C9259C /* Default@2x.png */; };
+		FFC99A2117E4A14000C9259C /* icon57.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC99A1B17E4A14000C9259C /* icon57.png */; };
+		FFC99A2217E4A14000C9259C /* icon114.png in Resources */ = {isa = PBXBuildFile; fileRef = FFC99A1C17E4A14000C9259C /* icon114.png */; };
+		FFC99A2317E4A14000C9259C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FFC99A1D17E4A14000C9259C /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,12 +116,94 @@
 		FF69592317E49D6900DE7116 /* FirstViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
 		FF69592517E49D6900DE7116 /* SecondViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
 		FF69592617E49D6900DE7116 /* SecondViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
-		FF69592817E49D6900DE7116 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		FF69592E17E49D6900DE7116 /* GayHaikuTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GayHaikuTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF69592F17E49D6900DE7116 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		FF69593717E49D6900DE7116 /* GayHaikuTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GayHaikuTests-Info.plist"; sourceTree = "<group>"; };
 		FF69593917E49D6900DE7116 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		FF69593B17E49D6900DE7116 /* GayHaikuTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GayHaikuTests.m; sourceTree = "<group>"; };
+		FFC9998717E4A09900C9259C /* 5compose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5compose.png; sourceTree = "<group>"; };
+		FFC9998817E4A09900C9259C /* 5instructions.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5instructions.png; sourceTree = "<group>"; };
+		FFC9998917E4A09900C9259C /* 5main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5main.png; sourceTree = "<group>"; };
+		FFC9998A17E4A09900C9259C /* 18-envelope.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "18-envelope.png"; sourceTree = "<group>"; };
+		FFC9998B17E4A09900C9259C /* 18-envelope@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "18-envelope@2x.png"; sourceTree = "<group>"; };
+		FFC9998C17E4A09900C9259C /* 20-gear-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "20-gear-2.png"; sourceTree = "<group>"; };
+		FFC9998D17E4A09900C9259C /* 20-gear-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "20-gear-2@2x.png"; sourceTree = "<group>"; };
+		FFC9998E17E4A09900C9259C /* 28-star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "28-star.png"; sourceTree = "<group>"; };
+		FFC9998F17E4A09900C9259C /* 28-star@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "28-star@2x.png"; sourceTree = "<group>"; };
+		FFC9999017E4A09900C9259C /* 53-house.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "53-house.png"; sourceTree = "<group>"; };
+		FFC9999117E4A09900C9259C /* 53-house@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "53-house@2x.png"; sourceTree = "<group>"; };
+		FFC9999217E4A09900C9259C /* 80-shopping-cart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "80-shopping-cart.png"; sourceTree = "<group>"; };
+		FFC9999317E4A09900C9259C /* 80-shopping-cart@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "80-shopping-cart@2x.png"; sourceTree = "<group>"; };
+		FFC9999417E4A09900C9259C /* 216-compose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "216-compose.png"; sourceTree = "<group>"; };
+		FFC9999517E4A09900C9259C /* 216-compose@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "216-compose@2x.png"; sourceTree = "<group>"; };
+		FFC9999617E4A09900C9259C /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		FFC9999717E4A09900C9259C /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		FFC9999817E4A09900C9259C /* backgroundForShare.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundForShare.png; sourceTree = "<group>"; };
+		FFC9999B17E4A09900C9259C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main_iPad.storyboard; sourceTree = "<group>"; };
+		FFC9999D17E4A09900C9259C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main_iPhone.storyboard; sourceTree = "<group>"; };
+		FFC9999E17E4A09900C9259C /* compose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = compose.png; sourceTree = "<group>"; };
+		FFC9999F17E4A09900C9259C /* DMActivityInstagram.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DMActivityInstagram.h; sourceTree = "<group>"; };
+		FFC999A017E4A09900C9259C /* DMActivityInstagram.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DMActivityInstagram.m; sourceTree = "<group>"; };
+		FFC999A117E4A09900C9259C /* DMResizerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DMResizerViewController.h; sourceTree = "<group>"; };
+		FFC999A217E4A09900C9259C /* DMResizerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DMResizerViewController.m; sourceTree = "<group>"; };
+		FFC999A317E4A09900C9259C /* DMResizerViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DMResizerViewController.xib; sourceTree = "<group>"; };
+		FFC999A617E4A09900C9259C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
+		FFC999A717E4A09900C9259C /* exceptions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = exceptions.plist; sourceTree = "<group>"; };
+		FFC999A817E4A09900C9259C /* FirstViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstViewController.h; sourceTree = "<group>"; };
+		FFC999A917E4A09900C9259C /* FirstViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstViewController.m; sourceTree = "<group>"; };
+		FFC999AA17E4A09900C9259C /* GayHaiku-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GayHaiku-Info.plist"; sourceTree = "<group>"; };
+		FFC999AB17E4A09900C9259C /* GayHaiku-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "GayHaiku-Prefix.pch"; sourceTree = "<group>"; };
+		FFC999AC17E4A09900C9259C /* gayHaiku413.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = gayHaiku413.plist; sourceTree = "<group>"; };
+		FFC999AD17E4A09900C9259C /* GHAppDefaults.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHAppDefaults.h; sourceTree = "<group>"; };
+		FFC999AE17E4A09900C9259C /* GHAppDefaults.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHAppDefaults.m; sourceTree = "<group>"; };
+		FFC999AF17E4A09900C9259C /* GHAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHAppDelegate.h; sourceTree = "<group>"; };
+		FFC999B017E4A09900C9259C /* GHAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHAppDelegate.m; sourceTree = "<group>"; };
+		FFC999B117E4A09900C9259C /* GHComposeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHComposeViewController.h; sourceTree = "<group>"; };
+		FFC999B217E4A09900C9259C /* GHComposeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHComposeViewController.m; sourceTree = "<group>"; };
+		FFC999B317E4A09900C9259C /* GHFeedback.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHFeedback.h; sourceTree = "<group>"; };
+		FFC999B417E4A09900C9259C /* GHFeedback.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHFeedback.m; sourceTree = "<group>"; };
+		FFC999B517E4A09900C9259C /* GHHaiku.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHHaiku.h; sourceTree = "<group>"; };
+		FFC999B617E4A09900C9259C /* GHHaiku.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHHaiku.m; sourceTree = "<group>"; };
+		FFC999B717E4A09900C9259C /* GHHaikuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHHaikuViewController.h; sourceTree = "<group>"; };
+		FFC999B817E4A09900C9259C /* GHHaikuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHHaikuViewController.m; sourceTree = "<group>"; };
+		FFC999B917E4A09900C9259C /* GHSettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHSettingsViewController.h; sourceTree = "<group>"; };
+		FFC999BA17E4A09900C9259C /* GHSettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHSettingsViewController.m; sourceTree = "<group>"; };
+		FFC999BB17E4A09900C9259C /* GHTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHTabBarController.h; sourceTree = "<group>"; };
+		FFC999BC17E4A09900C9259C /* GHTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHTabBarController.m; sourceTree = "<group>"; };
+		FFC999BD17E4A09900C9259C /* GHVerify.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHVerify.h; sourceTree = "<group>"; };
+		FFC999BE17E4A09900C9259C /* GHVerify.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHVerify.m; sourceTree = "<group>"; };
+		FFC999BF17E4A09900C9259C /* GHWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHWebViewController.h; sourceTree = "<group>"; };
+		FFC999C017E4A09900C9259C /* GHWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GHWebViewController.m; sourceTree = "<group>"; };
+		FFC999C117E4A09900C9259C /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		FFC999C217E4A09900C9259C /* input.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = input.png; sourceTree = "<group>"; };
+		FFC999C317E4A09900C9259C /* input@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "input@2x.png"; sourceTree = "<group>"; };
+		FFC999C417E4A09900C9259C /* instagramicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instagramicon.png; sourceTree = "<group>"; };
+		FFC999C517E4A09900C9259C /* instagramicon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "instagramicon@2x.png"; sourceTree = "<group>"; };
+		FFC999C617E4A09900C9259C /* instructions.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = instructions.png; sourceTree = "<group>"; };
+		FFC999C717E4A09900C9259C /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		FFC999C817E4A09900C9259C /* main.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = main.png; sourceTree = "<group>"; };
+		FFC999C917E4A09900C9259C /* NSRegularExpression+SimpleRegex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSRegularExpression+SimpleRegex.h"; sourceTree = "<group>"; };
+		FFC999CA17E4A09900C9259C /* NSRegularExpression+SimpleRegex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSRegularExpression+SimpleRegex.m"; sourceTree = "<group>"; };
+		FFC999CB17E4A09900C9259C /* NSString+RegexReplace.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+RegexReplace.h"; sourceTree = "<group>"; };
+		FFC999CC17E4A09900C9259C /* NSString+RegexReplace.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+RegexReplace.m"; sourceTree = "<group>"; };
+		FFC999CD17E4A09900C9259C /* SecondViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondViewController.h; sourceTree = "<group>"; };
+		FFC999CE17E4A09900C9259C /* SecondViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondViewController.m; sourceTree = "<group>"; };
+		FFC999CF17E4A09900C9259C /* Storyboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
+		FFC999D017E4A09900C9259C /* userHaiku.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = userHaiku.plist; sourceTree = "<group>"; };
+		FFC999D117E4A09900C9259C /* webBack.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = webBack.png; sourceTree = "<group>"; };
+		FFC999D217E4A09900C9259C /* webBack@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "webBack@2x.png"; sourceTree = "<group>"; };
+		FFC999D317E4A09900C9259C /* webForward.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = webForward.png; sourceTree = "<group>"; };
+		FFC999D417E4A09900C9259C /* webForward@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "webForward@2x.png"; sourceTree = "<group>"; };
+		FFC999D517E4A09900C9259C /* x5compose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = x5compose.png; sourceTree = "<group>"; };
+		FFC999D617E4A09900C9259C /* xcompose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = xcompose.png; sourceTree = "<group>"; };
+		FFC99A1217E4A0B800C9259C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = InfoPlist.strings; sourceTree = "<group>"; };
+		FFC99A1317E4A0B800C9259C /* GayHaikuTests-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GayHaikuTests-Info.plist"; sourceTree = "<group>"; };
+		FFC99A1417E4A0B800C9259C /* GayHaikuTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GayHaikuTests.m; sourceTree = "<group>"; };
+		FFC99A1817E4A14000C9259C /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		FFC99A1917E4A14000C9259C /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		FFC99A1A17E4A14000C9259C /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		FFC99A1B17E4A14000C9259C /* icon57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon57.png; sourceTree = "<group>"; };
+		FFC99A1C17E4A14000C9259C /* icon114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon114.png; sourceTree = "<group>"; };
+		FFC99A1D17E4A14000C9259C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +237,12 @@
 				FF69593517E49D6900DE7116 /* GayHaikuTests */,
 				FF69590917E49D6800DE7116 /* Frameworks */,
 				FF69590817E49D6800DE7116 /* Products */,
+				FFC99A1817E4A14000C9259C /* Default-568h@2x.png */,
+				FFC99A1917E4A14000C9259C /* Default.png */,
+				FFC99A1A17E4A14000C9259C /* Default@2x.png */,
+				FFC99A1B17E4A14000C9259C /* icon57.png */,
+				FFC99A1C17E4A14000C9259C /* icon114.png */,
+				FFC99A1D17E4A14000C9259C /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -117,6 +269,80 @@
 		FF69591017E49D6900DE7116 /* GayHaiku */ = {
 			isa = PBXGroup;
 			children = (
+				FFC9998717E4A09900C9259C /* 5compose.png */,
+				FFC9998817E4A09900C9259C /* 5instructions.png */,
+				FFC9998917E4A09900C9259C /* 5main.png */,
+				FFC9998A17E4A09900C9259C /* 18-envelope.png */,
+				FFC9998B17E4A09900C9259C /* 18-envelope@2x.png */,
+				FFC9998C17E4A09900C9259C /* 20-gear-2.png */,
+				FFC9998D17E4A09900C9259C /* 20-gear-2@2x.png */,
+				FFC9998E17E4A09900C9259C /* 28-star.png */,
+				FFC9998F17E4A09900C9259C /* 28-star@2x.png */,
+				FFC9999017E4A09900C9259C /* 53-house.png */,
+				FFC9999117E4A09900C9259C /* 53-house@2x.png */,
+				FFC9999217E4A09900C9259C /* 80-shopping-cart.png */,
+				FFC9999317E4A09900C9259C /* 80-shopping-cart@2x.png */,
+				FFC9999417E4A09900C9259C /* 216-compose.png */,
+				FFC9999517E4A09900C9259C /* 216-compose@2x.png */,
+				FFC9999617E4A09900C9259C /* AppDelegate.h */,
+				FFC9999717E4A09900C9259C /* AppDelegate.m */,
+				FFC9999817E4A09900C9259C /* backgroundForShare.png */,
+				FFC9999917E4A09900C9259C /* Base.lproj */,
+				FFC9999E17E4A09900C9259C /* compose.png */,
+				FFC9999F17E4A09900C9259C /* DMActivityInstagram.h */,
+				FFC999A017E4A09900C9259C /* DMActivityInstagram.m */,
+				FFC999A117E4A09900C9259C /* DMResizerViewController.h */,
+				FFC999A217E4A09900C9259C /* DMResizerViewController.m */,
+				FFC999A317E4A09900C9259C /* DMResizerViewController.xib */,
+				FFC999A417E4A09900C9259C /* en.lproj */,
+				FFC999A717E4A09900C9259C /* exceptions.plist */,
+				FFC999A817E4A09900C9259C /* FirstViewController.h */,
+				FFC999A917E4A09900C9259C /* FirstViewController.m */,
+				FFC999AA17E4A09900C9259C /* GayHaiku-Info.plist */,
+				FFC999AB17E4A09900C9259C /* GayHaiku-Prefix.pch */,
+				FFC999AC17E4A09900C9259C /* gayHaiku413.plist */,
+				FFC999AD17E4A09900C9259C /* GHAppDefaults.h */,
+				FFC999AE17E4A09900C9259C /* GHAppDefaults.m */,
+				FFC999AF17E4A09900C9259C /* GHAppDelegate.h */,
+				FFC999B017E4A09900C9259C /* GHAppDelegate.m */,
+				FFC999B117E4A09900C9259C /* GHComposeViewController.h */,
+				FFC999B217E4A09900C9259C /* GHComposeViewController.m */,
+				FFC999B317E4A09900C9259C /* GHFeedback.h */,
+				FFC999B417E4A09900C9259C /* GHFeedback.m */,
+				FFC999B517E4A09900C9259C /* GHHaiku.h */,
+				FFC999B617E4A09900C9259C /* GHHaiku.m */,
+				FFC999B717E4A09900C9259C /* GHHaikuViewController.h */,
+				FFC999B817E4A09900C9259C /* GHHaikuViewController.m */,
+				FFC999B917E4A09900C9259C /* GHSettingsViewController.h */,
+				FFC999BA17E4A09900C9259C /* GHSettingsViewController.m */,
+				FFC999BB17E4A09900C9259C /* GHTabBarController.h */,
+				FFC999BC17E4A09900C9259C /* GHTabBarController.m */,
+				FFC999BD17E4A09900C9259C /* GHVerify.h */,
+				FFC999BE17E4A09900C9259C /* GHVerify.m */,
+				FFC999BF17E4A09900C9259C /* GHWebViewController.h */,
+				FFC999C017E4A09900C9259C /* GHWebViewController.m */,
+				FFC999C117E4A09900C9259C /* Images.xcassets */,
+				FFC999C217E4A09900C9259C /* input.png */,
+				FFC999C317E4A09900C9259C /* input@2x.png */,
+				FFC999C417E4A09900C9259C /* instagramicon.png */,
+				FFC999C517E4A09900C9259C /* instagramicon@2x.png */,
+				FFC999C617E4A09900C9259C /* instructions.png */,
+				FFC999C717E4A09900C9259C /* main.m */,
+				FFC999C817E4A09900C9259C /* main.png */,
+				FFC999C917E4A09900C9259C /* NSRegularExpression+SimpleRegex.h */,
+				FFC999CA17E4A09900C9259C /* NSRegularExpression+SimpleRegex.m */,
+				FFC999CB17E4A09900C9259C /* NSString+RegexReplace.h */,
+				FFC999CC17E4A09900C9259C /* NSString+RegexReplace.m */,
+				FFC999CD17E4A09900C9259C /* SecondViewController.h */,
+				FFC999CE17E4A09900C9259C /* SecondViewController.m */,
+				FFC999CF17E4A09900C9259C /* Storyboard.storyboard */,
+				FFC999D017E4A09900C9259C /* userHaiku.plist */,
+				FFC999D117E4A09900C9259C /* webBack.png */,
+				FFC999D217E4A09900C9259C /* webBack@2x.png */,
+				FFC999D317E4A09900C9259C /* webForward.png */,
+				FFC999D417E4A09900C9259C /* webForward@2x.png */,
+				FFC999D517E4A09900C9259C /* x5compose.png */,
+				FFC999D617E4A09900C9259C /* xcompose.png */,
 				FF69591917E49D6900DE7116 /* AppDelegate.h */,
 				FF69591A17E49D6900DE7116 /* AppDelegate.m */,
 				FF69591C17E49D6900DE7116 /* Main_iPhone.storyboard */,
@@ -125,7 +351,6 @@
 				FF69592317E49D6900DE7116 /* FirstViewController.m */,
 				FF69592517E49D6900DE7116 /* SecondViewController.h */,
 				FF69592617E49D6900DE7116 /* SecondViewController.m */,
-				FF69592817E49D6900DE7116 /* Images.xcassets */,
 				FF69591117E49D6900DE7116 /* Supporting Files */,
 			);
 			path = GayHaiku;
@@ -145,7 +370,9 @@
 		FF69593517E49D6900DE7116 /* GayHaikuTests */ = {
 			isa = PBXGroup;
 			children = (
-				FF69593B17E49D6900DE7116 /* GayHaikuTests.m */,
+				FFC99A1017E4A0B800C9259C /* en.lproj */,
+				FFC99A1317E4A0B800C9259C /* GayHaikuTests-Info.plist */,
+				FFC99A1417E4A0B800C9259C /* GayHaikuTests.m */,
 				FF69593617E49D6900DE7116 /* Supporting Files */,
 			);
 			path = GayHaikuTests;
@@ -158,6 +385,31 @@
 				FF69593817E49D6900DE7116 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FFC9999917E4A09900C9259C /* Base.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				FFC9999A17E4A09900C9259C /* Main_iPad.storyboard */,
+				FFC9999C17E4A09900C9259C /* Main_iPhone.storyboard */,
+			);
+			path = Base.lproj;
+			sourceTree = "<group>";
+		};
+		FFC999A417E4A09900C9259C /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				FFC999A517E4A09900C9259C /* InfoPlist.strings */,
+			);
+			path = en.lproj;
+			sourceTree = "<group>";
+		};
+		FFC99A1017E4A0B800C9259C /* en.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				FFC99A1117E4A0B800C9259C /* InfoPlist.strings */,
+			);
+			path = en.lproj;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -236,10 +488,54 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFC999FF17E4A09900C9259C /* input@2x.png in Resources */,
+				FFC99A0417E4A09900C9259C /* main.png in Resources */,
+				FFC999ED17E4A09900C9259C /* DMResizerViewController.xib in Resources */,
+				FFC999D817E4A09900C9259C /* 5instructions.png in Resources */,
+				FFC999D917E4A09900C9259C /* 5main.png in Resources */,
+				FFC999E017E4A09900C9259C /* 53-house.png in Resources */,
+				FFC99A2317E4A14000C9259C /* README.md in Resources */,
+				FFC99A1E17E4A14000C9259C /* Default-568h@2x.png in Resources */,
+				FFC999E717E4A09900C9259C /* backgroundForShare.png in Resources */,
+				FFC999EA17E4A09900C9259C /* compose.png in Resources */,
+				FFC999F217E4A09900C9259C /* gayHaiku413.plist in Resources */,
+				FFC999D717E4A09900C9259C /* 5compose.png in Resources */,
 				FF69592117E49D6900DE7116 /* Main_iPad.storyboard in Resources */,
-				FF69592917E49D6900DE7116 /* Images.xcassets in Resources */,
+				FFC99A2017E4A14000C9259C /* Default@2x.png in Resources */,
+				FFC999E517E4A09900C9259C /* 216-compose@2x.png in Resources */,
+				FFC999DF17E4A09900C9259C /* 28-star@2x.png in Resources */,
+				FFC999EF17E4A09900C9259C /* exceptions.plist in Resources */,
 				FF69591E17E49D6900DE7116 /* Main_iPhone.storyboard in Resources */,
+				FFC99A0F17E4A09900C9259C /* xcompose.png in Resources */,
+				FFC999FE17E4A09900C9259C /* input.png in Resources */,
+				FFC999E917E4A09900C9259C /* Main_iPhone.storyboard in Resources */,
+				FFC99A0117E4A09900C9259C /* instagramicon@2x.png in Resources */,
+				FFC99A0917E4A09900C9259C /* userHaiku.plist in Resources */,
+				FFC99A0C17E4A09900C9259C /* webForward.png in Resources */,
+				FFC999DA17E4A09900C9259C /* 18-envelope.png in Resources */,
+				FFC99A0B17E4A09900C9259C /* webBack@2x.png in Resources */,
+				FFC999E317E4A09900C9259C /* 80-shopping-cart@2x.png in Resources */,
+				FFC99A0017E4A09900C9259C /* instagramicon.png in Resources */,
+				FFC999E817E4A09900C9259C /* Main_iPad.storyboard in Resources */,
+				FFC999DC17E4A09900C9259C /* 20-gear-2.png in Resources */,
+				FFC99A0E17E4A09900C9259C /* x5compose.png in Resources */,
+				FFC999DB17E4A09900C9259C /* 18-envelope@2x.png in Resources */,
+				FFC999E217E4A09900C9259C /* 80-shopping-cart.png in Resources */,
+				FFC99A2217E4A14000C9259C /* icon114.png in Resources */,
+				FFC999EE17E4A09900C9259C /* InfoPlist.strings in Resources */,
+				FFC99A0217E4A09900C9259C /* instructions.png in Resources */,
+				FFC999DD17E4A09900C9259C /* 20-gear-2@2x.png in Resources */,
+				FFC99A0817E4A09900C9259C /* Storyboard.storyboard in Resources */,
+				FFC99A0A17E4A09900C9259C /* webBack.png in Resources */,
 				FF69591517E49D6900DE7116 /* InfoPlist.strings in Resources */,
+				FFC999E117E4A09900C9259C /* 53-house@2x.png in Resources */,
+				FFC999F117E4A09900C9259C /* GayHaiku-Info.plist in Resources */,
+				FFC999FD17E4A09900C9259C /* Images.xcassets in Resources */,
+				FFC999E417E4A09900C9259C /* 216-compose.png in Resources */,
+				FFC999DE17E4A09900C9259C /* 28-star.png in Resources */,
+				FFC99A0D17E4A09900C9259C /* webForward@2x.png in Resources */,
+				FFC99A2117E4A14000C9259C /* icon57.png in Resources */,
+				FFC99A1F17E4A14000C9259C /* Default.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -248,6 +544,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF69593A17E49D6900DE7116 /* InfoPlist.strings in Resources */,
+				FFC99A1617E4A0B800C9259C /* GayHaikuTests-Info.plist in Resources */,
+				FFC99A1517E4A0B800C9259C /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,10 +556,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFC999EB17E4A09900C9259C /* DMActivityInstagram.m in Sources */,
+				FFC999F417E4A09900C9259C /* GHAppDelegate.m in Sources */,
 				FF69592717E49D6900DE7116 /* SecondViewController.m in Sources */,
 				FF69591B17E49D6900DE7116 /* AppDelegate.m in Sources */,
+				FFC999FB17E4A09900C9259C /* GHVerify.m in Sources */,
+				FFC99A0517E4A09900C9259C /* NSRegularExpression+SimpleRegex.m in Sources */,
+				FFC999F317E4A09900C9259C /* GHAppDefaults.m in Sources */,
+				FFC999F517E4A09900C9259C /* GHComposeViewController.m in Sources */,
+				FFC99A0717E4A09900C9259C /* SecondViewController.m in Sources */,
+				FFC999F917E4A09900C9259C /* GHSettingsViewController.m in Sources */,
+				FFC99A0317E4A09900C9259C /* main.m in Sources */,
+				FFC999FC17E4A09900C9259C /* GHWebViewController.m in Sources */,
 				FF69592417E49D6900DE7116 /* FirstViewController.m in Sources */,
+				FFC999EC17E4A09900C9259C /* DMResizerViewController.m in Sources */,
+				FFC999F817E4A09900C9259C /* GHHaikuViewController.m in Sources */,
 				FF69591717E49D6900DE7116 /* main.m in Sources */,
+				FFC999E617E4A09900C9259C /* AppDelegate.m in Sources */,
+				FFC99A0617E4A09900C9259C /* NSString+RegexReplace.m in Sources */,
+				FFC999F717E4A09900C9259C /* GHHaiku.m in Sources */,
+				FFC999F017E4A09900C9259C /* FirstViewController.m in Sources */,
+				FFC999FA17E4A09900C9259C /* GHTabBarController.m in Sources */,
+				FFC999F617E4A09900C9259C /* GHFeedback.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,7 +585,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FF69593C17E49D6900DE7116 /* GayHaikuTests.m in Sources */,
+				FFC99A1717E4A0B800C9259C /* GayHaikuTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -312,6 +628,38 @@
 			isa = PBXVariantGroup;
 			children = (
 				FF69593917E49D6900DE7116 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		FFC9999A17E4A09900C9259C /* Main_iPad.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FFC9999B17E4A09900C9259C /* Base */,
+			);
+			name = Main_iPad.storyboard;
+			sourceTree = "<group>";
+		};
+		FFC9999C17E4A09900C9259C /* Main_iPhone.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FFC9999D17E4A09900C9259C /* Base */,
+			);
+			name = Main_iPhone.storyboard;
+			sourceTree = "<group>";
+		};
+		FFC999A517E4A09900C9259C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FFC999A617E4A09900C9259C /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		FFC99A1117E4A0B800C9259C /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FFC99A1217E4A0B800C9259C /* en */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -480,6 +828,7 @@
 				FF69594117E49D6900DE7116 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FF69594217E49D6900DE7116 /* Build configuration list for PBXNativeTarget "GayHaikuTests" */ = {
 			isa = XCConfigurationList;
@@ -488,6 +837,7 @@
 				FF69594417E49D6900DE7116 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
