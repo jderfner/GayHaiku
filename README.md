@@ -1,4 +1,4 @@
-GayHaikuTabbed
-==============
+GayHaiku
+========
 
-cleaner, tabbed version of <a href="https://github.com/jderfner/GayHaiku">GayHaiku</a>
+iOS companion app to <a href="http://amzn.com/076791984X">GayHaiku</a> by <a href="http://www.joelderfner.com">Joel Derfner</a>.
